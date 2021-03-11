@@ -1,5 +1,5 @@
 {
-  "name": "dashboard",
+  "name": "@onejustone/dashboard",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "chenrong <chenrong03@kuaishou.com>",
@@ -19,5 +19,6 @@
   "devDependencies": {
     "onejustonechart": "^1.0.1",
     "ramda": "^0.27.1"
-  }
+  },
+  "gitHead": "753ded7752a04e45dc151fbf738322bee0c43e41"
 }

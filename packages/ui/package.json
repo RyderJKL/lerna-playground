@@ -1,11 +1,11 @@
 {
-  "name": "onejustonechart",
+  "name": "@onejustone/ui",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "chenrong <chenrong03@kuaishou.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/onejustonechart.js",
+  "main": "",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "753ded7752a04e45dc151fbf738322bee0c43e41"
 }
