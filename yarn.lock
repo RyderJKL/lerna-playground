@@ -3655,6 +3655,11 @@ once@^1.3.0, once@^1.3.1, once@^1.4.0:
   dependencies:
     wrappy "1"
 
+onejustonechart@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/onejustonechart/-/onejustonechart-1.0.1.tgz#7b9bd9f47f5cdbff51254bb4c9a980b49aae0f3a"
+  integrity sha512-GiplcMFzEOD0RvN9OxwJTjql5r7Y5Sbig5joTdhUkStHurHChQa8BXuiDcadYa+e4EMq83u6tnHmzSBB3C1uXA==
+
 onetime@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/onetime/-/onetime-2.0.1.tgz#067428230fd67443b2794b22bba528b6867962d4"
